@@ -16,3 +16,11 @@ Alem disso quero dizer que conheco e ja trabalhei com redux e entendo
 os seus detalhes, como prova disso vou deixar aqui uma implementacao
 minha que fiz do reduz utilizando apenas kotlin:
 https://github.com/reduks/reduks
+
+obs: tive que desativar o flipper porque estava dando erro, como nao tenho
+uma maquina mac fiz funcionar no android, entao pode ser que no ios 
+possa ter algum problema com o fillper.
+
+obs2: nao me preocupei em deixar a arvore do git bonita e bem separada,
+dado o tempo que tive pra fazer acabei fazer apenas um commit, mas isso
+nao acontece no dia a dia.
